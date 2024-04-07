@@ -1,0 +1,28 @@
+
+*{
+    margin: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+body{
+    background-attachment: fixed;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(../assets/imagenes3/nubededia.jpeg) no-repeat fixed;
+    background-size: cover;   
+}
+#intro1{
+    text-align: center;
+}
+#section3 img{
+    width: 700px;
+    height: 420px;
+}
+#section4{
+    color: rgb(255, 6, 6);
+}
+
+
+
+

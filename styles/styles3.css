@@ -1,0 +1,19 @@
+*{
+    margin: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    background: url(../assets/imagenes3/paisajedefondo.jpeg) no-repeat fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: orange;
+}
+#centrar{
+    text-align: center;
+    font-family:cursive
+}
